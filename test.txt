@@ -1,2 +1,5 @@
 try different branch
-create in master
+<<<<<<< HEAD
+=======
+information 1
+>>>>>>> newbranck
