@@ -1,0 +1,16 @@
+lqa r1,0,
+lqa r2,4,
+lqa r3,8,
+mpyi r4,r1,14
+mpyu r5,r1,r2
+mpyui r6,r1,8
+mpya r7,r1,r2,r3
+and r8,r1,r2
+andbi r9,r1,12
+andhi r10,r1,12
+andi r11,r1,12
+or r12,r1,r2
+orbi r13,r1,12
+orhi r14,r1,12
+ori r15,r1,12
+nor r16,r1,r2

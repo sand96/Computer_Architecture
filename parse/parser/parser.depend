@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1524979332 source:c:\users\xiao\desktop\ese545\parse\parser\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<map>
+	<string>
+	<vector>
+	<bitset>
+
+1525020128 source:c:\users\sands\documents\sverilog\ese545_computerarchitecture\final\parse\parser\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<map>
+	<string>
+	<vector>
+	<bitset>
+	<cstring>
+	<cstdlib>
+
