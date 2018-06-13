@@ -1,5 +1,0 @@
-try different branch
-<<<<<<< HEAD
-=======
-information 1
->>>>>>> newbranck
