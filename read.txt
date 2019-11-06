@@ -1,4 +1,0 @@
-This the code for computer architecture.
-I think this will be useful for the SBU ESE students.
-However, you must know your professor is so strict. Be careful 
-with the code.
